@@ -72,3 +72,5 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+/.idea/
+/ReflectionExample.iml
